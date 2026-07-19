@@ -2,7 +2,7 @@
 
 live at [koipond.me](https://koipond.me/)
 
-I wanted to know if the following behavioral logic chunks, combined, would result in natural schooling:
+I wanted to know if the following behavioral logic chunks, combined, would result in natural schooling/scheduling:
 
 1. your field of vision is limited
 2. steer into you-sized gaps
